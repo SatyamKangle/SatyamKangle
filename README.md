@@ -1,4 +1,4 @@
-![logo](https://github.com/SatyamKangle/SatyamKangle/blob/main/Github%20Banner.png)
+![logo](https://github.com/SatyamKangle/SatyamKangle/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Satyam Kangle</h1>
 <h3 align="center">A highly motivated IT engineering student, dedicated to continuous learning and enhance skills.</h3>
 
