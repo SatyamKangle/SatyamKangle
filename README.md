@@ -6,6 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkangle&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkangle" /> </p>
 
+- 🌱 I’m currently learning **Data Structure and Algorithm**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SatyamKangle](https://github.com/SatyamKangle)
+
+- 📫 How to reach me **auspiciousshiv99@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satyam kangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam kangle" height="30" width="40" /></a>
